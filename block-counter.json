@@ -1,0 +1,549 @@
+{
+    "version": "0.4",
+    "title": "Block: Counter",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-stats",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "168c9e15",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=f2fc07f",
+                    "color_text": ""
+                },
+                "gap": "no",
+                "structure": "50",
+                "background_overlay_image": {
+                    "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/02\/noise.png",
+                    "id": 201
+                },
+                "background_overlay_repeat": "repeat",
+                "shape_divider_top_width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "40",
+                    "bottom": "80",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Counter",
+                "background_repeat": "repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.299999999999999988897769753748434595763683319091796875,
+                    "sizes": []
+                },
+                "shape_divider_top": "wave-brush",
+                "shape_divider_top_flip": "yes",
+                "shape_divider_bottom": "wave-brush",
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 30,
+                    "sizes": []
+                },
+                "shape_divider_bottom_flip": "yes",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 120,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "px",
+                    "size": 80,
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 0,
+                    "sizes": []
+                },
+                "shape_divider_top_width_mobile": {
+                    "unit": "%",
+                    "size": 200,
+                    "sizes": []
+                },
+                "shape_divider_top_height_mobile": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                },
+                "shape_divider_bottom_width_mobile": {
+                    "unit": "%",
+                    "size": 200,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height_mobile": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "4b2d8e66",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 18,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "50",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 15,
+                        "space_between_widgets_tablet": 0,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_mobile": 50,
+                        "space_between_widgets_mobile": 0,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6523d5f6",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/02\/basil2.png",
+                                    "id": 353
+                                },
+                                "image_size": "thumbnail",
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 33,
+                                        "end": 64
+                                    }
+                                },
+                                "_animation": "fadeInDown",
+                                "_animation_delay": 700,
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -291,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -197,
+                                    "unit": "px"
+                                },
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "_animation_tablet": "none",
+                                "_animation_mobile": "none",
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ff2a484",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/02\/basil1.png",
+                                    "id": 352
+                                },
+                                "image_size": "thumbnail",
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 33,
+                                        "end": 64
+                                    }
+                                },
+                                "_animation": "fadeInDown",
+                                "_animation_delay": 300,
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -170,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -24,
+                                    "unit": "px"
+                                },
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "_animation_tablet": "none",
+                                "_animation_mobile": "none",
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1fbbddce",
+                            "settings": {
+                                "ending_number": 12,
+                                "title": "Pizza Chefs",
+                                "number_color": "#0B0A07",
+                                "title_color": "#0B0A07",
+                                "__globals__": {
+                                    "typography_number_typography": "globals\/typography?id=02b8093",
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_title_typography": "globals\/typography?id=21dfc80",
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "33211ece",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 18,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 18,
+                        "space_between_widgets_tablet": 0,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_mobile": 50,
+                        "space_between_widgets_mobile": 0,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5b69a7b1",
+                            "settings": {
+                                "ending_number": 35,
+                                "title": "Orders at Hour",
+                                "number_color": "#0B0A07",
+                                "title_color": "#0B0A07",
+                                "__globals__": {
+                                    "typography_title_typography": "globals\/typography?id=21dfc80",
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_number_typography": "globals\/typography?id=02b8093"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3f46e85f",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 18,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 18,
+                        "space_between_widgets_tablet": 0,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_mobile": 50,
+                        "space_between_widgets_mobile": 0,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "5",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5d2b2828",
+                            "settings": {
+                                "ending_number": 78,
+                                "title": "Family Recipes",
+                                "number_color": "#FFA609",
+                                "title_color": "#0B0A07",
+                                "__globals__": {
+                                    "typography_title_typography": "globals\/typography?id=21dfc80",
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_number_typography": "globals\/typography?id=02b8093"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "263a60d4",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 18,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 18,
+                        "space_between_widgets_tablet": 0,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "_inline_size_mobile": 50,
+                        "space_between_widgets_mobile": 0,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3bcdf13e",
+                            "settings": {
+                                "ending_number": 500,
+                                "suffix": "+",
+                                "title": "Pizzas per Day",
+                                "title_color": "#0B0A07",
+                                "__globals__": {
+                                    "typography_title_typography": "globals\/typography?id=21dfc80",
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_number_typography": "globals\/typography?id=02b8093"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7424bfaa",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 27.417000000000001591615728102624416351318359375,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "_inline_size_tablet": 31,
+                        "space_between_widgets_tablet": 0,
+                        "hide_mobile": "hidden-phone"
+                    },
+                    "elements": [
+                        {
+                            "id": "6dbad66e",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/05\/freshly-baked-pizza-PBURSKC.png",
+                                    "id": 2054
+                                },
+                                "image_size": "full",
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.299999999999999988897769753748434595763683319091796875,
+                                    "sizes": []
+                                },
+                                "_animation": "rotateInDownRight",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 590,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 89,
+                                    "unit": "px"
+                                },
+                                "_offset_x_end": {
+                                    "size": 26,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -238,
+                                    "unit": "px"
+                                },
+                                "_animation_tablet": "none",
+                                "_animation_mobile": "none",
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 250,
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 0,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": -95,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 2,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": -231,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

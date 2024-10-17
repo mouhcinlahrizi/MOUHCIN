@@ -1,0 +1,537 @@
+{
+    "version": "0.4",
+    "title": "Block: Pizza",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "4346fba8",
+            "settings": {
+                "structure": "20",
+                "gap": "no",
+                "overflow": "hidden",
+                "background_color": "#F9F5F2",
+                "background_overlay_background": "classic",
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "repeat",
+                "background_overlay_size": "contain",
+                "shape_divider_top_width": {
+                    "unit": "%",
+                    "size": 219,
+                    "sizes": []
+                },
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 129,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "160",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "40",
+                    "bottom": "0",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Pizza",
+                "__globals__": {
+                    "background_color": "",
+                    "color_text": ""
+                },
+                "content_position": "middle",
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "4524c7f0",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50,
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "80",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 40,
+                        "content_position_tablet": "top",
+                        "space_between_widgets_tablet": 0,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "60",
+                            "right": "40",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_mobile": 100,
+                        "content_position_mobile": "top",
+                        "space_between_widgets_mobile": 0,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "70",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2e1c4832",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/05\/pizza-with-ingredients3.png",
+                                    "id": 1772,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -52,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -63,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_animation": "fadeIn",
+                                "_animation_tablet": "none",
+                                "_animation_mobile": "none",
+                                "animation_duration": "fast",
+                                "_animation_delay": 0,
+                                "_offset_x_tablet": {
+                                    "size": -26,
+                                    "unit": "px"
+                                },
+                                "_offset_x_end_tablet": {
+                                    "size": 30,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": -21,
+                                    "unit": "px"
+                                },
+                                "_offset_y_end_tablet": {
+                                    "size": 55,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 8,
+                                    "unit": "px"
+                                },
+                                "_offset_y_end_mobile": {
+                                    "size": 3,
+                                    "unit": "px"
+                                },
+                                "_offset_y_end": {
+                                    "size": 0,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ecafb81",
+                            "settings": {
+                                "text": "Order Now",
+                                "align": "justify",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "60",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "initial",
+                                "_element_vertical_align": "center",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=primary",
+                                    "button_background_hover_color": "globals\/colors?id=secondary",
+                                    "hover_color": "globals\/colors?id=6cf8799",
+                                    "button_text_color": "globals\/colors?id=secondary"
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "justify",
+                                "_element_width_mobile": "inherit",
+                                "_animation": "slideInDown",
+                                "_animation_tablet": "none",
+                                "_animation_mobile": "none",
+                                "_animation_delay": 500,
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 338,
+                                    "unit": "px"
+                                },
+                                "_offset_x_end": {
+                                    "size": 0,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 351,
+                                    "unit": "px"
+                                },
+                                "_offset_y_end": {
+                                    "size": 0,
+                                    "unit": "px"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 40,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 1,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 268,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 324,
+                                    "unit": "px"
+                                },
+                                "link": {
+                                    "url": "\/product-category\/pizza\/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "674c0946",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/05\/Oval3.png",
+                                    "id": 2312
+                                },
+                                "align": "left",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "motion_fx_mouseTrack_direction": "negative",
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.5,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn",
+                                "_animation_tablet": "none",
+                                "_animation_mobile": "none",
+                                "_animation_delay": 0,
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "25e491a3",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50,
+                        "content_position": "top",
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 60,
+                        "space_between_widgets_tablet": 0,
+                        "animation": "none",
+                        "animation_tablet": "none",
+                        "animation_mobile": "none",
+                        "animation_delay": 0,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_mobile": 100,
+                        "space_between_widgets_mobile": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "2f982a53",
+                            "settings": {
+                                "title": "Pizza",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": ""
+                                },
+                                "align_mobile": "center",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "32",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "typography_font_family": "Barlow Semi Condensed",
+                                "typography_font_weight": "800",
+                                "align": "left",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_tablet": "right"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4ccfb7ae",
+                            "settings": {
+                                "price_list": [
+                                    {
+                                        "title": " Meaty Legend",
+                                        "item_description": "Pepperoni, italian sausage, smoked chicken, canadian bacon, tomato sauce, red onion, black olives, mushroom.",
+                                        "price": "$25.00",
+                                        "link": {
+                                            "url": "\/product\/meaty-legend\/"
+                                        },
+                                        "_id": "0ddbc01",
+                                        "image": {
+                                            "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/03\/freshly-baked-pizza-PJWGLZ9.png",
+                                            "id": 975,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "title": " Diavola",
+                                        "item_description": "Spicy pepperoni, basil, white truffle oil, ricotta cheese, mozzarella, sausage, parmesan.",
+                                        "price": "$26.00",
+                                        "link": {
+                                            "url": "\/product\/diavola\/"
+                                        },
+                                        "_id": "b5b3b64",
+                                        "image": {
+                                            "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/03\/freshly-baked-pizza-PMBRVHW.png",
+                                            "id": 979,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "title": " Gino\u2019s Supreme",
+                                        "item_description": "Pepperoni, Italian sausage, onions, green peppers, mushrooms, basil, parmesan.",
+                                        "price": "$21.00",
+                                        "link": {
+                                            "url": "\/product\/ginos-supreme\/"
+                                        },
+                                        "_id": "552851d",
+                                        "image": {
+                                            "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/03\/freshly-baked-pizza-PMFY6BG.png",
+                                            "id": 981,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "title": "Chicago Fire",
+                                        "item_description": "Tomato, bbq sauce, sausage, cheese, red onion, house-made sausage, mozzarella & basil.",
+                                        "price": "$17.99",
+                                        "link": {
+                                            "url": "\/product\/chicago-fire\/"
+                                        },
+                                        "image": {
+                                            "url": "https:\/\/pipirima-elementor.nelly-k.com\/wp-content\/uploads\/2021\/03\/freshly-baked-pizza-PDA8SKF.png",
+                                            "id": 976,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "fa322a8"
+                                    }
+                                ],
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#0B0A07",
+                                "description_color": "#595959",
+                                "separator_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "separator_spacing": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "image_size_size": "custom",
+                                "image_size_custom_dimension": {
+                                    "width": "110",
+                                    "height": ""
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "image_spacing": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "row_gap": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "heading_color": "globals\/colors?id=secondary",
+                                    "heading_typography_typography": "globals\/typography?id=3b0ea8e",
+                                    "description_color": "globals\/colors?id=text",
+                                    "description_typography_typography": "globals\/typography?id=66b253e",
+                                    "separator_color": "globals\/colors?id=e5ea6ab"
+                                },
+                                "separator_color": "#A3A3A3",
+                                "price_color": "#0B0A07"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
